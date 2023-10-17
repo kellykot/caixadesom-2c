@@ -12,3 +12,7 @@ listaDeTeclas[1].onclick = TocaSomClap;
 
 //chamando a função tocaSomPom pelo item "0" da listaDeTecla
 listaDeTecklas[0].onclick = tocaSomPom
+
+
+let contador = 0;
+while()
