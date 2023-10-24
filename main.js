@@ -13,6 +13,9 @@ listaDeTeclas[1].onclick = TocaSomClap;
 //chamando a função tocaSomPom pelo item "0" da listaDeTecla
 listaDeTecklas[0].onclick = tocaSomPom
 
-
 let contador = 0;
-while()
+while(contador < 9){
+listaDeTecklas[contador].onclick =tocaSomPom;
+contador = contador + 1;
+console.log(contador);
+}
