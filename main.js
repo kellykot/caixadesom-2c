@@ -15,7 +15,7 @@ listaDeTeclas[1].onclick = tocaSomClap;
 //referencia constante listaDeTeclas, buscandotodos os botões
 
 //chamando a função tocaSomPom pelo item "0" da listaDeTecla
-listaDeTecklas[0].onclick = tocaSomPom
+listaDeTeclas[0].onclick = tocaSomPom
 
 let contador = 0;
 while(contador < 9){
