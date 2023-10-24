@@ -19,8 +19,9 @@ listaDeTeclas[0].onclick = tocaSom;
 
 let contador = 0;
 while(contador < listaDeTeclas.length){
+    const efeito = listaDeTeclas
 listaDeTeclas[contador].onclick =function(){
-    
+
 };
 
 contador = contador + 1;
