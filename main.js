@@ -18,7 +18,6 @@ listaDeTeclas[0].onclick = tocaSom;
         tecla.onclick = function(){
             tocaSom(idAudio);
     }
-    contador = contador +1
 
 }
 
