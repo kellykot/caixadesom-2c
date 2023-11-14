@@ -19,8 +19,7 @@ listaDeTeclas[0].onclick = tocaSom;
             tocaSom(idAudio);
     }
 
-
-    }
+}
 
 
 
