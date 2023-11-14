@@ -20,7 +20,7 @@ listaDeTeclas[0].onclick = tocaSom;
     }
 
 
-    
+    }
 
 
 
