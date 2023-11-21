@@ -17,7 +17,9 @@ listaDeTeclas[0].onclick = tocaSom;
     const idAudio = `#som_$(efeito)`;
         tecla.onclick = function(){
             tocaSom(idAudio);
+
     }
+    tecla 
 
 }
 
