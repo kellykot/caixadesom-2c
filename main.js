@@ -20,7 +20,7 @@ listaDeTeclas[0].onclick = tocaSom;
 
     }
     tecla.onkeydown = function(){
-      if (EventCounts.code ==='Space' || evento.code === 'Enter'){
+      if (EventCounts.code === 'Space' || evento.code === 'Enter'){
       tecla.classList.add('ativa')
       }
     tecla.onkeyup = function(){
